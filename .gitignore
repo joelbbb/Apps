@@ -1,0 +1,5 @@
+# Ignorer les fichiers liés aux clés d'API
+.env/
+
+# Ignore fichier "test.log"
+test.log
